@@ -1,0 +1,19 @@
+.container h1 {
+  text-align: center;
+}
+
+.select-container p {
+  margin-bottom: 0;
+}
+
+.select-btn-container button {
+  cursor: pointer;
+}
+
+.show-case {
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+  width: 1500px;
+  height: 600px;
+}
