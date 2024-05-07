@@ -92,7 +92,7 @@ const All = () => {
   const renderGraph = graph => {
     const width = 1500;
     const height = 600;
-    const nodeRadius = 16;
+    const nodeRadius = 10;
 
     const svg = d3
       .select(svgRef.current)
