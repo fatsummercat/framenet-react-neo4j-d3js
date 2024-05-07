@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>SceneNet</h1>
+      <h1>FrameNet</h1>
       <div className="select-container">
         <p>Select:</p>
         <div className="select-btn-container">
